@@ -1,4 +1,5 @@
-# HTML Entity Encoder&nbsp;<a href="https://sudo-self.github.io/html-encoder">Demo</a>
+# HTML Entity Encoder
+### &nbsp;<a href="https://sudo-self.github.io/html-encoder">sudo-self.github.io/html-encoder</a>
 
 This project is a simple HTML Entity Encoder built using **Tailwind CSS** and **vanilla JavaScript**. The encoder converts user input into corresponding HTML entities, allowing you to safely display characters that would otherwise be interpreted as code by browsers.
 

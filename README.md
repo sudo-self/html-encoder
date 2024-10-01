@@ -11,4 +11,4 @@ This project is a simple HTML Entity Encoder built using **Tailwind CSS** and **
 - **Light/Dark mode toggle**: Easily switch between light and dark themes. Your preference is saved in local storage.
 - **Responsive design**: Mobile-friendly and responsive layout, built with Tailwind CSS.
   
-<img width="1440" alt="Screenshot 2024-10-01 at 5 26 40 AM" src="https://github.com/user-attachments/assets/79451e26-6a33-4704-a263-32508f3c60e1">
+<img width="983" alt="Screenshot 2024-10-01 at 5 35 18 AM" src="https://github.com/user-attachments/assets/f65efd51-b654-4a52-8d82-faa6b3ba7d7f">

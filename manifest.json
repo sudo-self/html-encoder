@@ -1,0 +1,27 @@
+{
+  "short_name": "HTML Encoder",
+  "name": "HTML Encoder",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f0f0",
+  "theme_color": "#ccc",
+  "icons": [
+    {
+      "src": "icon192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "description": "A tool to encode text to HTML entities",
+  "lang": "en-US",
+  "scope": "/",
+  "start_url": "/index.html"
+}
